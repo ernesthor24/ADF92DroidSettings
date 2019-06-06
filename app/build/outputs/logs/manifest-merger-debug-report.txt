@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/3409b41697b32920db425828b7427962/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/ab913b1b6fcbbd46a343ad468843dff1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c7979c0050f9835816d7e0e9d298d42a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/d1df9bbfed304ff4fef4054cbf832093/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/601e3789fb1b7d32428b1ea0f0180de0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/f8d68a315044c23c132cf5c35db1848c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/fd4f562f4448660f9318b7c23ba7b55d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/b367b55f4a7b751b70a10e164d9e46af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0cc2368b0269b7eb97e8b7894b736bc9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/ade9a77f85cc6b3c248f6932a44ad070/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/97182a309adbbdb0158f7758bb7bbf0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/a8642a7797a909e38e3db7c292ac3350/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/531a9b4f7fae6ad4d4a521a865b08dbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/bf4a9a4543f228f20b4cb829296909f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/a8adb9f564cba44a873dd8678068d268/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/e1ce8bf39ae749cec9358741c635e14f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0a2d9181e8c1612df4c7dc14d5943929/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/1cd35d8ab303392403abf4747b60f7c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/4f828c1f91de630be073ae0f93a3f944/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/ab7c3af2d8e392d8db748c996428f9ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/7ac7ef8914debf0d31f3d1e5c1f9064b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/9970e389613c7ef729e4122f70f2e3d9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/ddd8b53aa4b5cd01a1d9acf06dc5dd7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/7b50bcc740a157299739e15fa0177de5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/e6dff17b98165c6a3adebc70d0d0e899/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/8e5f2f6c9ec89379219973b088540bf4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/71c8572ae504ab66dce05f1fe931057b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/936097331c97ac0e5b688c22ba504d44/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/bc27d1dca1dc668773d4753f8b377f22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c55e7b4ee48d456c41e4591ed4869f57/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/82d85ec466df5165aa2271454557e064/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/6942daf556a5442a3b5cdeb66446988d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/6519176b6ace32bef30705741d5afd3e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:3:5-57
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:5:5-38:19
+MERGED from [com.android.support:design:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/3409b41697b32920db425828b7427962/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/3409b41697b32920db425828b7427962/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c7979c0050f9835816d7e0e9d298d42a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c7979c0050f9835816d7e0e9d298d42a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/7ac7ef8914debf0d31f3d1e5c1f9064b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/7ac7ef8914debf0d31f3d1e5c1f9064b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/9970e389613c7ef729e4122f70f2e3d9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/9970e389613c7ef729e4122f70f2e3d9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/7ac7ef8914debf0d31f3d1e5c1f9064b/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.adf92droidcafesettings.MainActivity
+ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.android.adf92droidcafesettings.OrderActivity
+ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:22:9-29:20
+	android:parentActivityName
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:25:13-55
+	android:label
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:24:13-57
+	android:name
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:23:13-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:26:13-28:49
+	android:value
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:28:17-46
+	android:name
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:27:17-63
+activity#com.example.android.adf92droidcafesettings.SettingsActivity
+ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:30:9-37:20
+	android:parentActivityName
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:33:13-55
+	android:label
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:32:13-60
+	android:name
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml:31:13-45
+uses-sdk
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/3409b41697b32920db425828b7427962/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/3409b41697b32920db425828b7427962/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/ab913b1b6fcbbd46a343ad468843dff1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/ab913b1b6fcbbd46a343ad468843dff1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c7979c0050f9835816d7e0e9d298d42a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c7979c0050f9835816d7e0e9d298d42a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/d1df9bbfed304ff4fef4054cbf832093/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/d1df9bbfed304ff4fef4054cbf832093/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/601e3789fb1b7d32428b1ea0f0180de0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/601e3789fb1b7d32428b1ea0f0180de0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/f8d68a315044c23c132cf5c35db1848c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/f8d68a315044c23c132cf5c35db1848c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/fd4f562f4448660f9318b7c23ba7b55d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/fd4f562f4448660f9318b7c23ba7b55d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/b367b55f4a7b751b70a10e164d9e46af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/b367b55f4a7b751b70a10e164d9e46af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0cc2368b0269b7eb97e8b7894b736bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0cc2368b0269b7eb97e8b7894b736bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/ade9a77f85cc6b3c248f6932a44ad070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/ade9a77f85cc6b3c248f6932a44ad070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/97182a309adbbdb0158f7758bb7bbf0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/97182a309adbbdb0158f7758bb7bbf0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/a8642a7797a909e38e3db7c292ac3350/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/a8642a7797a909e38e3db7c292ac3350/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/531a9b4f7fae6ad4d4a521a865b08dbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/531a9b4f7fae6ad4d4a521a865b08dbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/bf4a9a4543f228f20b4cb829296909f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/bf4a9a4543f228f20b4cb829296909f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/a8adb9f564cba44a873dd8678068d268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/a8adb9f564cba44a873dd8678068d268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/e1ce8bf39ae749cec9358741c635e14f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/e1ce8bf39ae749cec9358741c635e14f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0a2d9181e8c1612df4c7dc14d5943929/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0a2d9181e8c1612df4c7dc14d5943929/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/1cd35d8ab303392403abf4747b60f7c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/1cd35d8ab303392403abf4747b60f7c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/4f828c1f91de630be073ae0f93a3f944/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/4f828c1f91de630be073ae0f93a3f944/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/ab7c3af2d8e392d8db748c996428f9ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/ab7c3af2d8e392d8db748c996428f9ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/7ac7ef8914debf0d31f3d1e5c1f9064b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/7ac7ef8914debf0d31f3d1e5c1f9064b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/9970e389613c7ef729e4122f70f2e3d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/9970e389613c7ef729e4122f70f2e3d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/ddd8b53aa4b5cd01a1d9acf06dc5dd7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/ddd8b53aa4b5cd01a1d9acf06dc5dd7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/7b50bcc740a157299739e15fa0177de5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/7b50bcc740a157299739e15fa0177de5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/e6dff17b98165c6a3adebc70d0d0e899/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/e6dff17b98165c6a3adebc70d0d0e899/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/8e5f2f6c9ec89379219973b088540bf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/8e5f2f6c9ec89379219973b088540bf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/71c8572ae504ab66dce05f1fe931057b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/71c8572ae504ab66dce05f1fe931057b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/936097331c97ac0e5b688c22ba504d44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/936097331c97ac0e5b688c22ba504d44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/bc27d1dca1dc668773d4753f8b377f22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/bc27d1dca1dc668773d4753f8b377f22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c55e7b4ee48d456c41e4591ed4869f57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c55e7b4ee48d456c41e4591ed4869f57/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/82d85ec466df5165aa2271454557e064/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/82d85ec466df5165aa2271454557e064/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/6942daf556a5442a3b5cdeb66446988d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/6942daf556a5442a3b5cdeb66446988d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/6519176b6ace32bef30705741d5afd3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/6519176b6ace32bef30705741d5afd3e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/DroidCafeWithSettings/app/src/main/AndroidManifest.xml
